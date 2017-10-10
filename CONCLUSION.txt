@@ -1,0 +1,10 @@
+Performed the following git work flow actions solo
+
+  - clone remote repo created on github
+  - created README.md and added to staging area
+  - made initial commit by commiting README.md
+  - pushed README.md to remote repo
+  - created functions.py and added to staging area
+  - created .gitignore and license.md and added to staging area using 'git add .'
+  - commited functions.py, .gitignore, and license.md and pushed to remote repo
+  - created, added, commited, and pushed CONCLUSION.txt
